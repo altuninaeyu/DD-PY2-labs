@@ -129,4 +129,4 @@ class Cat(Mammal):
 
 
 if __name__ == "__main__":
-    pass
+    doctest.testmod()
